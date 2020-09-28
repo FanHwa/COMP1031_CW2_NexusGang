@@ -27,6 +27,7 @@
 
 		<div class="navbar">
 			<a href="https://www.nottingham.edu.my/CorporateMarketing/Services/Service-Details/University-website.aspx" style="padding: 0px 0px;padding-right: 10px;"><img height="50" src="../NOTTpng.png" width="140" /></a>
+			<a href="../index.html">Home</a>
 		  	<a href="../city/city.php">City</a>
 		  	<a href="country.php">Country</a>
 		  	<a href="../language/language.php">Testing1</a>
